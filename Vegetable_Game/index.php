@@ -94,6 +94,7 @@
     
     <div id="start-screen">
         <h2>Welcome to the Vegetable Quiz!</h2>
+        <p>Challenge yourself with a fun quiz about vegetables!</p>
         <form id="player-form">
             <input type="text" id="player-name" placeholder="Enter your name" required>
             <button type="submit">Start Game</button>
@@ -137,3 +138,4 @@
     <script src="game.js"></script>
 </body>
 </html>
+
